@@ -2,5 +2,5 @@ os: osx
 
 
 script:
-  - echo 'succ'
+  - resize
 
